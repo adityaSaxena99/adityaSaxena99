@@ -22,8 +22,8 @@
 
 ### :man_technologist: About Me :
 I am an entry-level Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Atlanta, Georgia.
-- :telescope: I am a dedicated and forward-minded high school graduate, currently attending college at Georgia State
-University for M.BA Data Analytics with a concentration in Data Analysis/Data Science.
+- :telescope: I am a dedicated and forward-minded college graduate, currently attending college at Georgia State
+University for MBA Data Analytics with a concentration in Data Analysis/Business Analysis.
 
 - :seedling: Exploring Data Analytics.
 
